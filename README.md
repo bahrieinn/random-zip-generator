@@ -1,18 +1,14 @@
-Random Zip Generator
-====================
+##Random Zip Generator
 
-Setup
-====================
+###Setup
 1. Clone the repo
 2. cd into directory
 
-Usage
-====================
+###Usage
 1. `ruby random_zip.rb [state_abbreviation]` with any state abbreviation like 'CA', 'NY', etc.
 2. Be happy
 
-Output
-====================
+###Output
 The response will look something like:
 ```
 > ruby random_zip.rb MN
